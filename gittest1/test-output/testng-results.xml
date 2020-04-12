@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12223" started-at="2020-04-12T22:53:09 BST" finished-at="2020-04-12T22:53:21 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12223" started-at="2020-04-12T22:53:09 BST" finished-at="2020-04-12T22:53:21 BST">
+      <class name="guru999.gittest1.AppTest1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:guru999.gittest1.AppTest1@351d00c0]" name="beforeTest" is-config="true" duration-ms="15" started-at="2020-04-12T22:53:09 BST" finished-at="2020-04-12T22:53:09 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:guru999.gittest1.AppTest1@351d00c0]" name="f" duration-ms="16" started-at="2020-04-12T22:53:09 BST" finished-at="2020-04-12T22:53:09 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="guru99tutorials()[pri:0, instance:guru999.gittest1.AppTest1@351d00c0]" name="guru99tutorials" duration-ms="12111" started-at="2020-04-12T22:53:09 BST" finished-at="2020-04-12T22:53:21 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guru99tutorials -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:guru999.gittest1.AppTest1@351d00c0]" name="afterTest" is-config="true" duration-ms="10" started-at="2020-04-12T22:53:21 BST" finished-at="2020-04-12T22:53:21 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- guru999.gittest1.AppTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
