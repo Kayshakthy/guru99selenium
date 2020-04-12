@@ -27,8 +27,10 @@ public class AppTest1 {
 		System.out.println(" aTitle	: " + aTitle);
 		if(eTitle.contentEquals(aTitle)) {
 			System.out.println("Test passed");
+			
 		}else {
 			System.out.println("Test failed");
+			System.out.println(" aTitle	: " + aTitle);
 		}
 		//close the chrome driver
 		driver.close();
